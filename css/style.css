@@ -1,0 +1,122 @@
+.head{
+    width: 100%;
+    height: 100px;
+}
+.main{
+    width: 100%;
+    height: 900px;
+    background-color: cadetblue;
+    background-size: cover;
+}
+.head{
+    width: 100%;
+    height: 100px;
+    background-color: azure;
+}
+.picture{
+    width: 20%;
+    height: 100px;
+    float: left;
+}
+.picture img{
+    width: 81px;
+    height: 100px;
+}
+.link{
+    color: azure;
+    text-decoration: none;
+    float: right;
+
+}
+.link a{
+    text-decoration: none;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 5px;
+}
+.link a:hover{
+    background-color: rgb(18, 236, 225);
+}
+.content{
+    margin-left: 40px;
+}
+.content h2{
+    font-size: 30px;
+    font-family: cursive;
+    
+}
+.content h3{
+    font-size: 18px;
+    font-family: cursive;
+}
+.box1{
+    background-color: rgba(48, 216, 208, 0.808);
+    color: black;
+    width: 22%;
+    height: 250px;
+    /* margin-top: 1%; */
+    margin-left: 500px;
+    padding-top: 20px;
+    text-align: center;
+    float: right;
+    margin-top: -160px;
+    margin-right: 30px;
+    
+    
+}
+h1{
+    font-family: 'Fascinate', cursive;
+    font-size: 50px;
+}
+.box2{
+    background-color: burlywood;
+    width: 23%;
+    height: 400px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box3{
+    background-color:burlywood ;
+    width: 23%;
+    height: 400px;
+    float: left;
+    margin-right: 10px;
+    
+}
+.box4{
+    background-color: burlywood;
+    width: 23%;
+    height: 400px;
+    float: left;
+    margin-right: 10px;
+}
+.box5{
+    background-color: burlywood;
+    width: 23%;
+    height: 400px;
+    float: left;
+    margin-right: 10px;
+}
+.course{
+    width:100%;
+    height:400px;
+    margin-top:174px;
+}
+.footer{
+    width: 100%;
+    height: 66px;
+    background-color: black;
+
+}
+.footer h3{
+    text-align: center;
+    color: azure;
+}
+.footer i{
+    color: rgb(245, 143, 223);
+    margin-bottom: 20px;
+    margin-right: 5px;
+    text-align: center;
+}
